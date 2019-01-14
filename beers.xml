@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beers>
+  <beer>
+    <name>Goldstar</name>
+    <appearance>golden</appearance>
+    <origin>Israel</origin>
+  </beer>
+  <beer>
+    <name>Malka</name>
+    <appearance>white</appearance>
+    <origin>Israel</origin>
+  </beer>
+  <beer>
+    <name>Negev</name>
+    <appearance>brown</appearance>
+    <origin>Israel</origin>
+  </beer>
+</beers>
